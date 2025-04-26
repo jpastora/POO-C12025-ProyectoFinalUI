@@ -5,5 +5,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="mysql-connector-j-9.2.0" level="project" />
+    <orderEntry type="library" name="POO-C12025-ProyectoFinal" level="project" />
   </component>
 </module>
